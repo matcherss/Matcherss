@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: Matchers#9082
 
-Some of my recent projects:
+Some of my projects:
 - Cobra.rip
 - Astro.rip
 - Glad.rip
