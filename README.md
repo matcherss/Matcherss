@@ -10,3 +10,4 @@ Some of my projects:
 - Glad.rip
 - Kira.vip
 - Zonix.us
+- Spiritmc.org
