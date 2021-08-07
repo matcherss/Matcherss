@@ -7,7 +7,5 @@
 Some of my projects:
 - Cobra.rip
 - Astro.rip
-- Glad.rip
-- Kira.vip
 - Zonix.us
 - Spiritmc.org
