@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Java Developer
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: Matchers#9082
+- 🔭 Kotlin Developer
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: @immercedes on Telegram
 
 Some of my projects:
 - Cobra.rip
